@@ -1,0 +1,10 @@
+<plist version="1.0">
+ <dict>
+   <key>Label</key>
+   <string>wallpaper-changer</string>
+   <key>RunAtLoad</key>
+   <true />
+   <key>Program</key>
+   <string>/Users/dhruv/projects/wallpapers-skins.be/wallpaper.py</string>
+  </dict>
+</plist>
